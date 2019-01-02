@@ -1,2 +1,2 @@
 # pb_mysql_orm
-本项目是一个ORM测试，扩展了mysql的generator，生成sql文件，并使用protobuf的反射与descriptor生成相应的sql来达到ORM的演示。
+本项目是一个ORM测试，扩展了protobuf，增加了mysql的generator，生成sql文件，并使用protobuf的反射与descriptor生成相应的sql来达到ORM的演示。
